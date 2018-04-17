@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name="kiteconnect-cli",
-    version="0.0.1",
+    version="0.1.0",
     description="Simple Kiteconnect CLI",
     author="Joe Paul",
     author_email="joeirimpan@gmail.com",
